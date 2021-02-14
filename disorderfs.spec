@@ -2,7 +2,7 @@ Name:           disorderfs
 Version:        0.5.10
 Release:        2%{?dist}
 Summary:        FUSE filesystem that introduces non-determinism
-
+URL:            https://salsa.debian.org/reproducible-builds/%{name}
 License:        GPLv3+
 Source0:        https://salsa.debian.org/reproducible-builds/%{name}/-/archive/%{version}/%{name}-%{version}.tar.gz
 
